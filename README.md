@@ -39,8 +39,10 @@ Developed by: RegisterNumber:
 
 **RTL LOGIC UP COUNTER**
 
-**TIMING DIAGRAM FOR IP COUNTER**
+**TIMING DIAGRAM FOR IP COUNTER**<img width="1482" height="701" alt="image" src="https://github.com/user-attachments/assets/2dbbd7c4-9c05-4d16-a66a-79a9caed10d5" />
+
 
 **TRUTH TABLE**
 
-**RESULTS**
+**RESULTS** Thus the truth table of logic gates in Quartus II using Verilog programming is studied
+and verified successfully
